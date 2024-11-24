@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+    <envs>
+      <env name="DB_PASSWORD" value="1234" />
+      <env name="DB_USER_NAME" value="root" />
+      <env name="DB_PLATFORM" value="org.hibernate.dialect.MySQL8Dialect" />
+      <env name="DB_URL" value="jdbc:mysql://clinica_vet:3306/clinica_veterinaria?createDataBaseIfNotExist=true&amp;serverTimezone=UTC" />
+    </envs>
+    <module name="clinica_veterinaria" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
